@@ -1,2 +1,2 @@
 # StripOS
-## WS2812b Strip Driver
+Adressable LED Strip Driver
